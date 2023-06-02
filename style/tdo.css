@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    align-items: center;
+}
+
+
+container{
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+}
+
+.output{
+    margin-left: 37.5px;
+    .list{
+        border-color:transparent ;
+        color: #000;
+    }
+}
+#icon2{
+    background-color: url(/icons/check-solid.svg);
+}
